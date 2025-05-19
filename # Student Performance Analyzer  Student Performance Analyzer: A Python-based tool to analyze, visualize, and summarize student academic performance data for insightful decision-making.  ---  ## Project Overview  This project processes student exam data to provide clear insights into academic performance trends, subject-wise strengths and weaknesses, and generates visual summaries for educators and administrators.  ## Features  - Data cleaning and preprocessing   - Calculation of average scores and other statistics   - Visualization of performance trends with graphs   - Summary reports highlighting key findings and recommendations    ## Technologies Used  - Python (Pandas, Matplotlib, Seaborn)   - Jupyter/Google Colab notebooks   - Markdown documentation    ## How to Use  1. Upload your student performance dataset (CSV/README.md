@@ -1,5 +1,3 @@
-
-# Student Performance Analyzer
 # Student Performance Analyzer
 
 Student Performance Analyzer: A Python-based tool to analyze, visualize, and summarize student academic performance data for insightful decision-making.
@@ -28,6 +26,6 @@ This project processes student exam data to provide clear insights into academic
 1. Upload your student performance dataset (CSV/Excel).  
 2. Run the notebook cells in sequence.  
 3. View generated reports and visualizations.
-4.  [Click here to view the Colab notebook](https://github.com/Deekshaa-04/student-performance-analyzer/blob/main/performance_analyzer (1).ipynb)
+
 
 
