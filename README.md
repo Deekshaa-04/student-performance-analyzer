@@ -23,3 +23,4 @@ This project processes student exam data to provide clear insights into academic
 1. Upload your student performance dataset (CSV/Excel).  
 2. Run the notebook cells in sequence.  
 3. View generated reports and visualizations.
+   
